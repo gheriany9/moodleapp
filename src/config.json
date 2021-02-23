@@ -1,5 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "childrensworldschool.com/moodle30",
+    "siteurl": "https://childrensworldschool.com/moodle30",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3940,
@@ -63,12 +64,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
+
         "teacher": {
             "url": "https:\/\/school.moodledemo.net",
             "username": "teacher",
